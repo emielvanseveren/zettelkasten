@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "585d979952559d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5700485e1de7d5cc",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1abed47a9b41836b",
+    "type": "split",
+    "children": [
+      {
+        "id": "575a2569b7bc4543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727d5b69e41434f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5fa6db7e86f9709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc0a015276a9a1d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc258ba2e9f4e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eccb1b7891abf36f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    ".gitignore.md",
+    "cronjobs/cronie.md",
+    "obsidian/obsidian-version-control.md",
+    "git/git hacks.md",
+    "obsidian/obsidian-sync-script.md",
+    "obsidian/Untitled.md",
+    "cronjobs/Untitled.md",
+    "git/git.md",
+    "git.md"
+  ]
+}
