@@ -1,6 +1,14 @@
+---
+Title: Cronie
+Description: 
+Date: 16-02-2021
+Tags: #cron, #linux
+References: 
+Editor: markdown
+---
 # Cronie
 
-Cronie is a cronjob tool for Linux:
+Cronie is a job schedule tool for Linux:
 ```bash
 # -e: edit your crontab file i.e. your list of cronjobs. 
 crontab -e 

@@ -4,7 +4,7 @@
 ```bash
 #!/usr/bin/env sh
 
-OBSIDIAN_PATH = "THE ABSOLUTE PATH TO YOUR LOCAL ZETTELKASTEN REPO"
+OBSIDIAN_PATH = "/home/emiel/zettelkasten"
 cd "$OBSIDIAN_PATH"
 git pull # Check if there are no changes from other machines.
 
