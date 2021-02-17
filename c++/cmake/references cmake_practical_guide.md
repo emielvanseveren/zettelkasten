@@ -165,18 +165,13 @@ The first form is somewhat analogous to add_subdirectory(), but there are number
 - Irrespective of whether using add_subdirectory(), include() or a combination of both, the CMAKE_CURRENT_LIST_DIR variable is generally going to be a better choice than CMAKE_CURRENT_SOURCE_DIR. 
 
 ## Chapter 8: Functions and macros
+functions and  macros are a great way to re-use the same peice of CMake code throughout a project. **Prefer to use functions** rather than macros, since the use of a new scope within the function better isolates that function's effects on the calling scope. 
+
 ```c++
 	function(name [arg1 [arg2 [...]]])
 		# Function body
 	endfunction()
-		
-		
-		# Example
-		function(print_me)
-				message("Hello from inside a function")
-				message("All done")
-		endfunction()
-	
+
 		# Called like so:
 		print_me()
 ```
@@ -190,13 +185,32 @@ function(func arg)
 		else()
 			message("Function arg is NOT a defined variable")
 	endif()
-			endfunction
-
-
+			endfunction()
+			
+macro(macr arg)
+			if(DEFINED arg)
+					message("Macro arg is a defined variable")
+				else()
+					message("Macro arg is NOT a defined variable")
+			endif()
+endmacro()
+					
+func(foobar)
+macro(foobar)
+					
+# Result
+Function arg is a defined variable
+Macro arg is NOT a defined variable
 ```
-		
+
+##### Recommended Practices
+Rather than distributing functions throughout the source tree, a common practise is to nominate a particular directory where various cmake files can be collected. That directory acts like a catalog of ready-to-use functionality. 
+
+**Do not define or call a function with a name that starts with a single underscore**. Do not rely on the undocumented behavior whereby the old implementation of a command is made available by such a name when a function redefines an existing command. 
+
 
 ## Chapter 9: Properties
+
 
 ## Chapter 10:
 
