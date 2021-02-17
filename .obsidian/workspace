@@ -4,14 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5e6060bc93de26",
+        "id": "808609dcafd5a97d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/new.md",
+            "file": "c++/cmake/references cmake_practical_guide.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4da0d53c577e6e82",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "c++/cmake/Professional_CMake_A_Practical_Guide.pdf"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/new.md",
+                "file": "c++/cmake/references cmake_practical_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "templates/new.md",
-    "software-development/typescript.md",
-    "software-development/coding-guidelines.md",
-    "software-development/recommended-extensions.md",
-    "templates/Untitled.md",
-    "c++/tools.md",
+    "c++/cmake/references cmake_practical_guide.md",
     "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
-    "software-development/vscode.md",
-    "software-development/vscode/recommended-extensions.md",
-    "personal/books.md"
+    "regex/test.md",
+    "templates/[TEMPLATE] new_note.md",
+    "regex/Untitled.md",
+    "regex/Untitled 1.md",
+    "templates/[TEMPLATE] new.md",
+    "software-development/Untitled.md",
+    "templates/new.md",
+    "software-development/typescript.md"
   ]
 }

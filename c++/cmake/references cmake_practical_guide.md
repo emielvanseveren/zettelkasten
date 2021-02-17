@@ -165,7 +165,36 @@ The first form is somewhat analogous to add_subdirectory(), but there are number
 - Irrespective of whether using add_subdirectory(), include() or a combination of both, the CMAKE_CURRENT_LIST_DIR variable is generally going to be a better choice than CMAKE_CURRENT_SOURCE_DIR. 
 
 ## Chapter 8: Functions and macros
+```c++
+	function(name [arg1 [arg2 [...]]])
+		# Function body
+	endfunction()
+		
+		
+		# Example
+		function(print_me)
+				message("Hello from inside a function")
+				message("All done")
+		endfunction()
+	
+		# Called like so:
+		print_me()
+```
 
+The argument handling of functions and macros is the same except for one very important difference. For functions, each argument is a CMake variable and has all the usual behaviors of a CMake variable. 
+
+```c++
+function(func arg)
+	if(DEFINED arg)
+			message( "Function arg is a defined variable")
+		else()
+			message("Function arg is NOT a defined variable")
+	endif()
+			endfunction
+
+
+```
+		
 
 ## Chapter 9: Properties
 
