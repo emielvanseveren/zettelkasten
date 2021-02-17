@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "815fe3b78036c720",
+        "id": "4d5e6060bc93de26",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "webhosting/dns.md",
+            "file": "templates/new.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webhosting/dns.md",
+                "file": "templates/new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,22 +106,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "webhosting/dns.md",
-    "obsidian/obsidian-version-control.md",
-    "obsidian/obsidian-sync-script.md",
-    "git/git hacks.md",
-    "c++/tools.md",
-    "c++/cmake/references cmake_practical_guide.md",
+    "templates/new.md",
+    "software-development/typescript.md",
+    "software-development/coding-guidelines.md",
     "software-development/recommended-extensions.md",
-    "AppImage.md",
-    "README.md",
-    "TODO.md"
+    "templates/Untitled.md",
+    "c++/tools.md",
+    "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
+    "software-development/vscode.md",
+    "software-development/vscode/recommended-extensions.md",
+    "personal/books.md"
   ]
 }

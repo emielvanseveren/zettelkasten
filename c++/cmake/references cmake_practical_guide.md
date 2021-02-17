@@ -166,9 +166,15 @@ The first form is somewhat analogous to add_subdirectory(), but there are number
 
 ## Chapter 8: Functions and macros
 
+
 ## Chapter 9: Properties
 
+## Chapter 10:
+
+
 ## Chapter 11: Modules
+
+## Chapter 12:
 
 # Builds in depth
 ## Chapter 13: Build type

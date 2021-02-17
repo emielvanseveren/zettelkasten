@@ -1,9 +1,9 @@
 ---
-title: Coding guidelines
-description: Javascript coding guidelines
-published: 1
-date: 2020-03-19T13:27:24.414Z
-tags: coding, coding guidelines, guidelines, javascript, web
+Title: Coding guidelines
+Description: Javascript coding guidelines
+Date: 2020-03-19T13:27:24.414Z
+References: 
+Tags: #javascript
 ---
 
 # Javascript Coding Guidelines

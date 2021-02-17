@@ -24,5 +24,4 @@ Editor: markdown
 **MX**-record is a way to point a certain e-mail domainname to another e-mail domainname.
 **CNAME**-record is a way to point a certain domain name to another domain name.
 
-
-gather dns information: `dig command`
+DNS information gathering utility: `dig command` [[dig]]

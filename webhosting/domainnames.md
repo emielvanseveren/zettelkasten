@@ -1,6 +1,6 @@
 ---
 Title: Domain names
-Description: must know
+Description:
 Date: 14-02-2021
 Tags: #webhosting
 References: 

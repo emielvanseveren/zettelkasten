@@ -1,3 +1,12 @@
+---
+Title: Obsidian version control 
+Description: cronjob to sync obsidian with git
+Date: 16-02-2021
+Tags: #obsidian
+References: [[obsidian-sync-script]]
+Editor: markdown
+---
+
 # Obsidian version control 
 
 1. Create a new repository on Github.  

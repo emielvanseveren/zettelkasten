@@ -1,5 +1,13 @@
-# Obsidian sync script 
+---
+Title: Obsidian sync script
+Description: Obsidian sync adapted to my needs
+Date: 17-02-2021
+Tags: #obsidian
+References: [[obsidian-version-control]]
+Editor: markdown
+---
 
+# Obsidian sync script 
 
 ```bash
 #!/usr/bin/env sh

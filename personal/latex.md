@@ -8,10 +8,14 @@ tags:
 
 # Latex
 
+> REDO THIS
+
 Maintain latex documents locally is rather hard. Packages should be installed manually, barely any intellisense, hard for collaboration...
 A great cloud alternative is Overleaf. https://www.overleaf.com. Easy file collaboration, version control, a lot of preinstalled packages and great documentation.
 
 ## Template
+
+> CREATE TEMPLATE FOR MASTER THESIS
 
 > TODO: create template
 {.is-info}

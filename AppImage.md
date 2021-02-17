@@ -3,7 +3,7 @@ Title: AppImage
 Description: 
 Date: 11-02-2021
 Tags: #linux
-References: 
+References: [[obsidian-version-control]]
 Editor: markdown
 ---
 
@@ -20,5 +20,3 @@ download the correct installer:
 - [link to 64 bit launcher](https://github.com/TheAssassin/AppImageLauncher/releases/download/v2.2.0/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb)
 
 [source](https://github.com/TheAssassin/AppImageLauncher)
-
-Obsidian references: [[obsidian-version-control]]

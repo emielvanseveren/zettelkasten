@@ -2,7 +2,7 @@
 Title: CS:GO config
 Description: 
 Date: 28-07-2020
-Tags:
+Tags: #gaming
 Editor: markdown
 ---
 
