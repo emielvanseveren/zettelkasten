@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian/obsidian-sync-script.md",
+            "file": "webhosting/dns.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/obsidian-sync-script.md",
+                "file": "webhosting/dns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,22 +106,22 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 110
+    "width": 329
   },
   "lastOpenFiles": [
-    "obsidian/obsidian-sync-script.md",
-    "obsidian/obsidian-version-control.md",
-    "webhosting/dig.md",
     "webhosting/dns.md",
+    "obsidian/obsidian-version-control.md",
+    "obsidian/obsidian-sync-script.md",
+    "git/git hacks.md",
+    "c++/tools.md",
+    "c++/cmake/references cmake_practical_guide.md",
+    "software-development/recommended-extensions.md",
     "AppImage.md",
     "README.md",
-    "TODO.md",
-    "webhosting/domainnames.md",
-    "Untitled.md",
-    "personal/csgo-config.md"
+    "TODO.md"
   ]
 }

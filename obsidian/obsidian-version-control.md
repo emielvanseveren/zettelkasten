@@ -38,6 +38,4 @@ cronjob that runs every 30 minutes. ([[cronie]])
 */30 * * * * /home/emiel/.local/bin/obsidian_sync >/dev/null 2>&1
 ```
 
-[link to article](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5), if it is still available.
-
-Obsidian references: [[git]] [[cronie]]
+[link to article](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5), if still available.

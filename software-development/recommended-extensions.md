@@ -1,9 +1,8 @@
 ---
-title: Recommended Extensions
-description: 
-published: 1
-date: 2020-03-15T20:29:57.182Z
-tags: angular , extensions, react, recommended, vscode
+Title: Recommended Extensions
+Description: 
+Date: 15-03-2020
+Tags: #vscode
 ---
 
 # Visual Studio Code

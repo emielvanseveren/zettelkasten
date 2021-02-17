@@ -20,6 +20,3 @@ git add .
 git commit -q -m "Last sync: $(date +"%d-%m-%Y %H:%M:%S")"
 git push -q
 ```
-
-
-Obsidian references: [[obsidian-version-control]]

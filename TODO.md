@@ -1,4 +1,7 @@
 # TODO
 
-[ ] Update CSGO:CONFIG (upload)
-[ ]
+- [ ] Update CSGO:CONFIG (upload)-
+- [ ] a
+- [ ] b
+- [ ] c
+

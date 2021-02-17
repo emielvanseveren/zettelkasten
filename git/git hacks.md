@@ -27,6 +27,3 @@ git status --porcelain
 git push --porcelain
 git blame --porcelain
 ```
-
-
-Obsidian references: 

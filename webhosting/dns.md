@@ -26,5 +26,3 @@ Editor: markdown
 
 
 gather dns information: `dig command`
-
-obsidian references: [[dig]]
