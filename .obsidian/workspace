@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "c++/cmake/references cmake_practical_guide.md",
+            "file": "mailTesting.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++/cmake/references cmake_practical_guide.md",
+                "file": "mailTesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "c++/cmake/references cmake_practical_guide.md",
     "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
     "regex/test.md",
@@ -132,7 +133,6 @@
     "regex/Untitled 1.md",
     "templates/[TEMPLATE] new.md",
     "software-development/Untitled.md",
-    "templates/new.md",
-    "software-development/typescript.md"
+    "templates/new.md"
   ]
 }
