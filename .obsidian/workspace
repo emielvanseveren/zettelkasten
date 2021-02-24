@@ -124,6 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "webhosting/dns/bind9.md",
+    "webhosting/dns/dns.md",
     "webhosting/dns/Untitled.md",
     "webhosting/dns.md",
     "mailTesting.md",
@@ -131,8 +133,6 @@
     "c++/cmake/references cmake_practical_guide.md",
     "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
     "regex/test.md",
-    "templates/[TEMPLATE] new_note.md",
-    "regex/Untitled.md",
-    "regex/Untitled 1.md"
+    "templates/[TEMPLATE] new_note.md"
   ]
 }
