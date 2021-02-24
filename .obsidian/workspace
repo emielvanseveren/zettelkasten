@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "webhosting/dns/bind9.md",
-            "mode": "source"
+            "file": "c++/cmake/Professional_CMake_A_Practical_Guide.pdf"
           }
         }
       },
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webhosting/dns/bind9.md",
+                "file": "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +123,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
+    "c++/cmake/references cmake_practical_guide.md",
+    "mailTesting.md",
     "webhosting/dns/bind9.md",
     "webhosting/dns/dns.md",
     "webhosting/dns/Untitled.md",
     "webhosting/dns.md",
-    "mailTesting.md",
     "Untitled.md",
-    "c++/cmake/references cmake_practical_guide.md",
-    "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
     "regex/test.md",
     "templates/[TEMPLATE] new_note.md"
   ]
