@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "c++/cmake/Professional_CMake_A_Practical_Guide.pdf"
+            "file": "apply/cv.md",
+            "mode": "source"
           }
         }
       },
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
+                "file": "apply/cv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "apply/Untitled.md",
     "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
     "c++/cmake/references cmake_practical_guide.md",
     "mailTesting.md",
@@ -131,7 +133,6 @@
     "webhosting/dns/Untitled.md",
     "webhosting/dns.md",
     "Untitled.md",
-    "regex/test.md",
-    "templates/[TEMPLATE] new_note.md"
+    "regex/test.md"
   ]
 }
