@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "apply/cv.md",
+            "file": "tex/tex settings.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apply/cv.md",
+                "file": "tex/tex settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "tex/Untitled.md",
     "apply/Untitled.md",
     "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
     "c++/cmake/references cmake_practical_guide.md",
@@ -132,7 +133,6 @@
     "webhosting/dns/dns.md",
     "webhosting/dns/Untitled.md",
     "webhosting/dns.md",
-    "Untitled.md",
-    "regex/test.md"
+    "Untitled.md"
   ]
 }
