@@ -3,7 +3,7 @@ Title: Linux manuals
 Description:
 Date: 2021-03-02 18:13
 References:
-Tags: #manual #linux
+Tags: #manual #linux #command
 ---
 
 # man command

@@ -9,21 +9,25 @@ Editor: markdown
 
 # Dig
 
-DNS lookup utility
+DNS lookup utility. Alternative for 
 
 ## Common usage
 
-- `dig catalysm.net`
-	Returns A record by default.
+ ```bash 
+ 	# Returns A record by default.
+	dig catalysm.net
 
-- `dig -t ANY catalysm.net`. 
-	Define type of record. ANY returns all resource records.
+	# Define type of record. ANY returns all resource records.
+	dig -t ANY catalysm.net 
 
-- `dig catalysm.net +short`
-	Returns the short response form.
+	#Returns the short response form.
+	dig catalysm.net +short
 
-- `dig -x 10.210.20.50`
-	To perform a reverse look up using the ip-addr.
+	# To perform a reverse look up using the ip-addr.
+	dig -x 10.210.20.50
 
-- `dig @1.1.1.1 catalysm.net` 
-	By default dig uses the DNS servers defined in your /etc/resolv.conf file. This example uses Cloudflare's DNS server.
+	# By default dig uses the DNS servers defined in your 
+	# /etc/resolv.conf file. This example uses Cloudflare's 
+	# DNS server.
+	dig @1.1.1.1 catalysm.net
+	```

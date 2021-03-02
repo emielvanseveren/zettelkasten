@@ -34,15 +34,18 @@ command < file
 | 1        | stdout |
 | 2        | stderr |
 
-
 ### common redirections
 
-** 
+** in bash `&>`  has the same meaning as `2>&1` **
 
 ```bash
 	# redirect stderr to stdout and have error messages sent to the same file as standard output.
 	command > file 2>&1
 	
-	# Another way to redirect stderr to stdout using &> 
+	# Another way to redirect stderr to stdout using '&>'.
+	command &> file
+	
+	# redirect std-err to /dev/null. Instead of printing the errors.
+	command 2>/dev/null
 ```
 
