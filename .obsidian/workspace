@@ -10,18 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tex/tex settings.md",
+            "file": "linux/redirecting-streams.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "4da0d53c577e6e82",
+        "id": "d517a6871190ac7c",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "c++/cmake/Professional_CMake_A_Practical_Guide.pdf"
+            "file": "linux/redirecting-streams.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tex/tex settings.md",
+                "file": "linux/redirecting-streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +125,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "linux/io-redirect.md",
+    "linux/commands/man.md",
+    "linux/commands/grep.md",
+    "linux/input-output.md",
+    "linux/Untitled.md",
+    "Untitled.md",
+    "tex/tex settings.md",
     "tex/Untitled.md",
     "apply/Untitled.md",
-    "c++/cmake/Professional_CMake_A_Practical_Guide.pdf",
-    "c++/cmake/references cmake_practical_guide.md",
-    "mailTesting.md",
-    "webhosting/dns/bind9.md",
-    "webhosting/dns/dns.md",
-    "webhosting/dns/Untitled.md",
-    "webhosting/dns.md",
-    "Untitled.md"
+    "c++/cmake/Professional_CMake_A_Practical_Guide.pdf"
   ]
 }
